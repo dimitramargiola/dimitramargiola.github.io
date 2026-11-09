@@ -467,8 +467,9 @@ a.contact__big:hover { opacity: 0.6; }
 .project__desc > .statement { max-width: 22em; }
 
 @media (max-width: 900px) {
-  .project__head { grid-template-columns: 1fr; }
-  .project__head > *, .project__meta, .project__desc { grid-column: 1; }
+  .project__head { grid-template-columns: minmax(0, 1fr); }
+  .project__head > *, .project__head > .numeral, .project__head > .project__title, .project__meta, .project__desc { grid-column: 1; }
+  .project__title { white-space: normal; font-size: clamp(2.5rem, 12vw, 6rem); overflow-wrap: anywhere; }
   .project__desc { grid-row: 3; margin-bottom: 40px; }
   .project__meta { grid-template-columns: 1fr 1fr; }
 }
