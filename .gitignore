@@ -1,0 +1,8 @@
+node_modules
+dist
+.taste-skill
+*.log
+# The Illustrator-exported master PDF is ~330 MB: over GitHub's 100 MB file limit.
+# The deployable web edition lives in public/. Keep the master backed up elsewhere.
+assets/source/*.pdf
+preview.log

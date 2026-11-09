@@ -1,0 +1,31 @@
+{
+  "name": "dimitra-margiola-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "images": "node scripts/images.mjs",
+    "social": "node scripts/social-images.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/geologica": "^5.2.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.4.1",
+    "sharp": "^0.34.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  },
+  "allowScripts": {
+    "sharp@0.34.5": true,
+    "esbuild@0.25.12": true
+  }
+}

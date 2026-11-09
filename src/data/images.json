@@ -1,0 +1,364 @@
+{
+ "about/portrait": {
+  "w": 1319,
+  "h": 1675,
+  "widths": [
+   640,
+   1280,
+   1319
+  ]
+ },
+ "afiltraristo/business-cards": {
+  "w": 1505,
+  "h": 1801,
+  "widths": [
+   640,
+   1280,
+   1505
+  ]
+ },
+ "afiltraristo/city-poster": {
+  "w": 1399,
+  "h": 2401,
+  "widths": [
+   640,
+   1280,
+   1399
+  ]
+ },
+ "afiltraristo/coasters": {
+  "w": 1601,
+  "h": 1518,
+  "widths": [
+   640,
+   1280,
+   1601
+  ]
+ },
+ "afiltraristo/grape-mark-red": {
+  "w": 1209,
+  "h": 1390,
+  "widths": [
+   640,
+   1209
+  ]
+ },
+ "afiltraristo/grape-mark-rose": {
+  "w": 1175,
+  "h": 1278,
+  "widths": [
+   640,
+   1175
+  ]
+ },
+ "afiltraristo/grape-mark-sage": {
+  "w": 1244,
+  "h": 1382,
+  "widths": [
+   640,
+   1244
+  ]
+ },
+ "afiltraristo/identity-cover": {
+  "w": 2400,
+  "h": 2253,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "afiltraristo/t-shirt": {
+  "w": 1655,
+  "h": 2201,
+  "widths": [
+   640,
+   1280,
+   1655
+  ]
+ },
+ "afiltraristo/website": {
+  "w": 2400,
+  "h": 1882,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "afiltraristo/wine-bag": {
+  "w": 777,
+  "h": 2001,
+  "widths": [
+   640,
+   777
+  ]
+ },
+ "afiltraristo/wine-bottles": {
+  "w": 2400,
+  "h": 2079,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "at-care/bio-tonics-curcumin": {
+  "w": 1080,
+  "h": 1351,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "at-care/bio-tonics-lipotropin": {
+  "w": 1082,
+  "h": 1351,
+  "widths": [
+   640,
+   1082
+  ]
+ },
+ "at-care/bio-tonics-tribulus": {
+  "w": 1082,
+  "h": 1351,
+  "widths": [
+   640,
+   1082
+  ]
+ },
+ "at-care/krauterhof-arnica": {
+  "w": 1082,
+  "h": 1351,
+  "widths": [
+   640,
+   1082
+  ]
+ },
+ "at-care/krauterhof-cooling-gel": {
+  "w": 1083,
+  "h": 1351,
+  "widths": [
+   640,
+   1083
+  ]
+ },
+ "at-care/krauterhof-warming-balm": {
+  "w": 1081,
+  "h": 1351,
+  "widths": [
+   640,
+   1081
+  ]
+ },
+ "cocktail-festival/a-frame": {
+  "w": 1601,
+  "h": 1287,
+  "widths": [
+   640,
+   1280,
+   1601
+  ]
+ },
+ "cocktail-festival/bus-stop": {
+  "w": 1603,
+  "h": 2000,
+  "widths": [
+   640,
+   1280,
+   1603
+  ]
+ },
+ "cocktail-festival/entrance-arch": {
+  "w": 1601,
+  "h": 1382,
+  "widths": [
+   640,
+   1280,
+   1601
+  ]
+ },
+ "cocktail-festival/poster": {
+  "w": 1727,
+  "h": 2401,
+  "widths": [
+   640,
+   1280,
+   1727
+  ]
+ },
+ "cocktail-festival/roll-up": {
+  "w": 826,
+  "h": 1801,
+  "widths": [
+   640,
+   826
+  ]
+ },
+ "cocktail-festival/wall-poster": {
+  "w": 1277,
+  "h": 1801,
+  "widths": [
+   640,
+   1277
+  ]
+ },
+ "editorial/national-garden-inside": {
+  "w": 2400,
+  "h": 1851,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "editorial/national-garden-outside": {
+  "w": 2400,
+  "h": 1857,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "editorial/venus-inside": {
+  "w": 2400,
+  "h": 1844,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "editorial/venus-outside": {
+  "w": 2400,
+  "h": 1858,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "eleusis/bottle-back": {
+  "w": 2001,
+  "h": 1934,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2001
+  ]
+ },
+ "eleusis/bottle-front": {
+  "w": 2001,
+  "h": 1952,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2001
+  ]
+ },
+ "eleusis/label-back": {
+  "w": 2001,
+  "h": 1967,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2001
+  ]
+ },
+ "eleusis/label-front": {
+  "w": 2001,
+  "h": 1926,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2001
+  ]
+ },
+ "pillreminder/home-screen": {
+  "w": 2400,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "pillreminder/screens-app": {
+  "w": 2400,
+  "h": 1062,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "pillreminder/screens-onboarding": {
+  "w": 2400,
+  "h": 1069,
+  "widths": [
+   640,
+   1280,
+   2000,
+   2400
+  ]
+ },
+ "posters/national-garden-green": {
+  "w": 1635,
+  "h": 2201,
+  "widths": [
+   640,
+   1280,
+   1635
+  ]
+ },
+ "posters/national-garden-history": {
+  "w": 1651,
+  "h": 2201,
+  "widths": [
+   640,
+   1280,
+   1651
+  ]
+ },
+ "posters/national-garden-sport": {
+  "w": 1659,
+  "h": 2201,
+  "widths": [
+   640,
+   1280,
+   1659
+  ]
+ },
+ "posters/timeless-values": {
+  "w": 1535,
+  "h": 2201,
+  "widths": [
+   640,
+   1280,
+   1535
+  ]
+ },
+ "posters/turing-machine": {
+  "w": 1556,
+  "h": 2201,
+  "widths": [
+   640,
+   1280,
+   1556
+  ]
+ }
+}
